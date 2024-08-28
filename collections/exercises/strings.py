@@ -27,7 +27,7 @@ word = 'tomato'
 #     print(reversed)
 
 # 3. Refactor the code to print a combination of the original and reversed string. For example, given 'tomato', print 'tomatootamot'. (If you want to be fancy, print 'tomato | otamot').
-for i in range(len(word)-1,-1,-1,):
-    reversed += word[i]
-combined = word + reversed
-print(combined)
+# for i in range(len(word)-1,-1,-1,):
+#     reversed += word[i]
+# combined = word + reversed
+# print(combined)
