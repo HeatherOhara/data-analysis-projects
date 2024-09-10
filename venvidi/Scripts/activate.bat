@@ -8,7 +8,11 @@ if defined _OLD_CODEPAGE (
     "%SystemRoot%\System32\chcp.com" 65001 > nul
 )
 
+<<<<<<< HEAD
 set VIRTUAL_ENV=C:\Users\Heath\OneDrive\Desktop\data-analysis-projects\venvidi
+=======
+set VIRTUAL_ENV=C:\Users\Office Admin\Desktop\Micorsoft\data-analysis-projects\venvidi
+>>>>>>> 12c2bf730eda6d8bab2bc568902062bed67b8cf1
 
 if not defined PROMPT set PROMPT=$P$G
 
